@@ -23,7 +23,7 @@ const Post = (props) =>  (
             <div className="postText">{props.postText}</div>
 
             <div>
-                <img className="postImage" src={props.postImg} alt="Post Image" />
+                <img className="postImage" src={props.postImg} alt="Post Pic" />
             </div>
 
             <hr />

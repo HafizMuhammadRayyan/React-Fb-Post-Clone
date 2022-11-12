@@ -32,4 +32,8 @@
 .room>button{
   padding: 3px 10px;
   margin-top: 10px;
+  color: white;
+  background-color: black;
+  border: none;
+  border: 1px solid white;
 }
